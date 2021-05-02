@@ -1,0 +1,28 @@
+// Required
+@import "~empiricus-css/src/assets/scss/mixins.scss";
+@import "~empiricus-css/src/assets/scss/vars.scss";
+@import "~empiricus-css/src/assets/scss/fonts.scss";
+@import "~empiricus-css/src/assets/scss/resets.scss";
+
+//Components - Main
+@import "~empiricus-css/src/assets/scss/components/utils.scss";
+@import "~empiricus-css/src/assets/scss/components/typograph.scss";
+@import "~empiricus-css/src/assets/scss/components/spacing.scss";
+@import "~empiricus-css/src/assets/scss/components/grid.scss";
+
+//Components - Optional
+@import "~empiricus-css/src/assets/scss/components/layout";
+@import "~empiricus-css/src/assets/scss/components/buttons";
+@import "~empiricus-css/src/assets/scss/components/card";
+@import "~empiricus-css/src/assets/scss/components/card-info";
+@import "~empiricus-css/src/assets/scss/components/spinners";
+@import "~empiricus-css/src/assets/scss/components/tables";
+@import "~empiricus-css/src/assets/scss/components/forms";
+@import "~empiricus-css/src/assets/scss/components/tooltip";
+@import "~empiricus-css/src/assets/scss/components/breadcrumb";
+@import "~empiricus-css/src/assets/scss/components/media";
+@import "~empiricus-css/src/assets/scss/components/images";
+@import "~empiricus-css/src/assets/scss/components/embed";
+@import "~empiricus-css/src/assets/scss/components/labels";
+@import "~empiricus-css/src/assets/scss/components/alert";
+@import "~empiricus-css/src/assets/scss/components/avatar";
